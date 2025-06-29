@@ -1,0 +1,10 @@
+fork = true
+
+[window]
+size = { width = 2560, height = 1440 }
+vsync = true
+padding_top = 0
+padding_bottom = 0
+padding_left = 0
+padding_right = 0
+
