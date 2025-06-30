@@ -1,5 +1,2 @@
 fork = true
 
-[window]
-vsync = true
-
